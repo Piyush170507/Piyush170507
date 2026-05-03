@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Piyush
 
-<!--
-**Piyush170507/Piyush170507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+🧠 About Me
+🎓 Currently studying Computer Science
+📚 Preparing for exams & strengthening core concepts (OOP, Java, Software Engineering)
+💡 Interested in software development, problem solving, and building projects
+🌱 Currently learning: Java, Data Structures, and Web Development
+🛠️ Tech Stack
+💻 Languages: Java, C, Python (basic)
+🌐 Web: HTML, CSS (learning JavaScript)
+🗄️ Database: MySQL (basic)
+⚙️ Tools: Git, GitHub, VS Code
+ 
+ 📌 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🌐 Connect with Me
+📧 Email: piyush170507@gmail.com
+💼 LinkedIn: www.linkedin.com/in/piyush-raj-3315a7354
+
+✨ Fun Fact
+
+I’m currently turning my exam preparation into real-world coding skills 🚀
+
+🎯 Goals
+✔️ Master Python
+✔️ Build strong DSA foundation
+✔️ Create real-world projects
+✔️ Crack internships / placements
+
